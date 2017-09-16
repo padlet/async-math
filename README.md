@@ -1,5 +1,5 @@
 # async-math
-Npm package for async math operations.
+Promises based async math operations.
 
 ## Introduction
 Stop writing archaic, boring code.  
@@ -36,3 +36,6 @@ const { divide } = require("async-math")
 divide(8, 4).then(function(quotient) { console.log(quotient) })
 ```
 Console output should be 2
+
+## License
+`async-math` is released under the [MIT License](LICENSE)

@@ -52,4 +52,4 @@ let shootMe = function () {
     }
   });
 };
-export { add, subtract, multiply, divide, shootMe };
+module.exports = { add, subtract, multiply, divide, shootMe };

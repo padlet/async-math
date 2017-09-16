@@ -1,0 +1,32 @@
+{
+  "name": "async-math",
+  "version": "1.0.0",
+  "description": "Async math operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padlet/async-math.git"
+  },
+  "keywords": [
+    "promises",
+    "async",
+    "math"
+  ],
+  "engines": {
+    "node" : ">=6.4.0"
+  },
+  "author": "Nitesh Goel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/padlet/async-math/issues"
+  },
+  "homepage": "https://github.com/padlet/async-math#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^21.1.0"
+  }
+}

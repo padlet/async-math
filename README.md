@@ -4,7 +4,7 @@ Promises based async math operations.
 ## Introduction
 Stop writing archaic, boring code.  
 Why use native operators when you can use an npm package?  
-Why use synchronous arithmetic when you can do so asynchronously?  
+Why do synchronous arithmetic when you can do so asynchronously?  
 Why get guaranteed results when you can get the promise of one?  
 
 ## Usage
